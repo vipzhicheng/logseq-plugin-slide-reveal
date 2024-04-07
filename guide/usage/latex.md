@@ -18,4 +18,4 @@ The first two are more commonly used because they are consistent with Logseq's l
 
 It will be rendered as:
 
-![](../../../assets/screenshot/latex/demo1.png)
+![](../../assets/screenshot/latex/demo1.png)

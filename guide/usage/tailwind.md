@@ -144,4 +144,4 @@ safelist: [
 
 It will render as:
 
-![](../../../assets/screenshot/tailwindcss/demo.png)
+![](../../assets/screenshot/tailwindcss/demo.png)

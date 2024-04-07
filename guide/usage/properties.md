@@ -292,7 +292,7 @@ For example:
 
 It will look like this:
 
-![](../../../assets/screenshot/header_footer/demo.png)
+![](../../assets/screenshot/header_footer/demo.png)
 
 ## Fragments
 

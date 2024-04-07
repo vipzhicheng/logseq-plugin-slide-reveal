@@ -13,7 +13,7 @@
 	- no h tag
 ```
 
-![](../../assets/screenshot/basic/fontsize.png)
+![](../assets/screenshot/basic/fontsize.png)
 
 ## Non Ordered List
 
@@ -26,7 +26,7 @@
 	- Topic 4
 ```
 
-![](../../assets/screenshot/basic/list.png)
+![](../assets/screenshot/basic/list.png)
 
 ## Ordered List
 
@@ -39,7 +39,7 @@
 	- Topic 4
 ```
 
-![](../../assets/screenshot/basic/orderedlist.png)
+![](../assets/screenshot/basic/orderedlist.png)
 
 ## Two Column List
 
@@ -58,7 +58,7 @@
 	- Item 8
 ```
 
-![](../../assets/screenshot/basic/twocolumnlist.png)
+![](../assets/screenshot/basic/twocolumnlist.png)
 
 ## Another Two Column List
 
@@ -78,7 +78,7 @@
 	- Item 8
 ```
 
-![](../../assets/screenshot/basic/anothertwocolumnlist.png)
+![](../assets/screenshot/basic/anothertwocolumnlist.png)
 
 ## Not List
 
@@ -89,7 +89,7 @@
 	- aboris id laboris fugiat ut adipisic
 ```
 
-![](../../assets/screenshot/basic/notlist.png)
+![](../assets/screenshot/basic/notlist.png)
 
 ## Link Jump
 
@@ -117,7 +117,7 @@
 	  | Bob | 39 | 39 |
 ```
 
-![](../../assets/screenshot/basic/table.png)
+![](../assets/screenshot/basic/table.png)
 
 ## Quote
 
@@ -127,7 +127,7 @@
 	  > aboris id laboris fugiat ut adipisicing anim non et ullamco reprehenderit magna dolor.aboris id laboris fugiat ut adipisicing anim non et ullamco reprehenderit magna dolor.aboris id laboris fugiat ut adipisicing anim non et ullamco reprehenderit magna dolor.aboris id laboris fugiat ut adipisicing anim non et ullamco reprehenderit magna dolor.aboris id laboris fugiat ut adipisicing anim non et ullamco reprehenderit magna dolor.
 ```
 
-![](../../assets/screenshot/basic/quote.png)
+![](../assets/screenshot/basic/quote.png)
 
 ## Local Image
 
@@ -137,7 +137,7 @@
 	- Support local image rendering.
 ```
 
-![](../../assets/screenshot/basic/localimage.png)
+![](../assets/screenshot/basic/localimage.png)
 
 ## Local Video
 

@@ -47,7 +47,7 @@ Search for it in the plugin marketplace and install it from there.
 
 2. There is a slide icon in the top right corner of the page; click it, and you can view your slides.
 
-![](../../assets/screenshot/getstarted.png)
+![](../assets/screenshot/getstarted.png)
 
 3. That's it, you've made your first slide.
 

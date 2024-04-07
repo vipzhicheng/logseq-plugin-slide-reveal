@@ -22,7 +22,7 @@ A common requirement is to have a specific node displayed at any arbitrary posit
 
 It will be rendered as:
 
-![](../../../assets/screenshot/layout/absolute.png)
+![](../../assets/screenshot/layout/absolute.png)
 
 ## Flex Layout
 
@@ -40,7 +40,7 @@ Flex layout is a prevalent approach to organizing content, and each `<section>` 
 
 It will be rendered as:
 
-![](../../../assets/screenshot/layout/left.png)
+![](../../assets/screenshot/layout/left.png)
 
 Guess what the layout of the following slide is?
 
@@ -79,7 +79,7 @@ Grid layout is not native to the plugin, but can be achieved through Tailwind CS
 
 It will be rendered as:
 
-![](../../../assets/screenshot/layout/grid.png)
+![](../../assets/screenshot/layout/grid.png)
 
 ### Implementing a Two-Column Layout with Grid
 
@@ -100,4 +100,4 @@ It will be rendered as:
 	- Item 8
 ```
 
-![](../../../assets/screenshot/basic/anothertwocolumnlist.png)
+![](../../assets/screenshot/basic/anothertwocolumnlist.png)
