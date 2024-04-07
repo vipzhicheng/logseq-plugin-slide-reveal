@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Logseq Slide Reveal",
   description: "A slide show solution for Logseq",
   base: "/logseq-plugin-slide-reveal/",
+  assetsDir: "assets",
   locales: {
     root: {
       label: "English",

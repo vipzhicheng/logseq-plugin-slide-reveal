@@ -6,7 +6,7 @@ hero:
   text: "将区块变为幻灯片"
   tagline: "Logseq 的幻灯片解决方案"
   image:
-    src: ../assets/hero.png
+    src: /assets/hero.png
     alt: Logseq Slide Reveal
   actions:
     - theme: brand

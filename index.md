@@ -8,7 +8,7 @@ hero:
   # text: "A slide show solution for Logseq"
   tagline: "A slide show solution for Logseq"
   image:
-    src: ./assets/hero.png
+    src: /assets/hero.png
     alt: Logseq Slide Reveal
   actions:
     - theme: brand
