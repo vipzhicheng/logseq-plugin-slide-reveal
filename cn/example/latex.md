@@ -8,7 +8,7 @@
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$
 ```
 
-![](../assets/screenshot/latex/demo1.png)
+![](../../assets/screenshot/latex/demo1.png)
 
 ## 示例 2
 
@@ -24,7 +24,7 @@ $$\begin{align*}
 	  \end{align*}$$
 ```
 
-![](../assets/screenshot/latex/demo2.png)
+![](../../assets/screenshot/latex/demo2.png)
 
 ## 示例 3
 
@@ -35,4 +35,4 @@ $$\begin{align*}
 $$\begin{equation} \Psi(x, t) = \int_{-\infty}^{\infty} \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{\infty} \hat{\Psi}(k, \omega) e^{i(kx - \omega t)} dk d\omega \end{equation}$$
 ```
 
-![](../assets/screenshot/latex/demo3.png)
+![](../../assets/screenshot/latex/demo3.png)
