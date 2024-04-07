@@ -18,7 +18,7 @@ export default defineConfig({
           { text: "Guide", link: "/guide/" },
           { text: "Screencasts", link: "/screencast/" },
           { text: "Examples", link: "/example/" },
-          { text: "Change Log", link: "/changelog" },
+          { text: "Changelog", link: "/changelog" },
         ],
         sidebar: {
           "/screencast/": [
