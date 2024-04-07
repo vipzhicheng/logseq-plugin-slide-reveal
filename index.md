@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/get-started
+      link: /guide/getting-started
     - theme: alt
       text: Screencasts
       link: /screencast/
