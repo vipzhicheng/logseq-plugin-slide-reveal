@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Logseq Slide Reveal",
   description: "A slide show solution for Logseq",
-
+  base: "/logseq-plugin-slide-reveal/",
   locales: {
     root: {
       label: "English",
