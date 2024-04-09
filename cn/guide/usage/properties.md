@@ -139,6 +139,10 @@ data-background-transition:: slide
 
 ## 垂直幻灯片
 
+:::tip
+这个特性仅对付费用户开放。
+:::
+
 垂直幻灯片是 Reveal.js 的一个核心功能，在插件里也支持。
 
 ```

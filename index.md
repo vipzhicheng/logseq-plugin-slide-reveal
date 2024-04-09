@@ -15,8 +15,8 @@ hero:
       text: Get Started
       link: /guide/getting-started
     - theme: alt
-      text: Screencasts
-      link: /screencast/
+      text: Purchase
+      link: /purchase
 
 features:
   - title: Easy to Use

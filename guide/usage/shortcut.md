@@ -53,10 +53,18 @@ To avoid conflicts with shortcuts from other plugins, no shortcut is bound by de
 
 ### Launching Local Slides
 
+:::tip
+This is a feature for Pro users.
+:::
+
 - Type `/Slide Reveal` in a block to launch local slides.
 - Choose `Slide Reveal` from the context menu of a block to launch local slides.
 
 ### Previewing Slides
+
+:::tip
+This is a feature for Pro users.
+:::
 
 - Type `/Slide Preview` in a block to preview slides.
 - Choose `Slide Preview` from the context menu of a block to preview slides.

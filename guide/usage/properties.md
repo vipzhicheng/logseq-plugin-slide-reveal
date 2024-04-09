@@ -139,6 +139,10 @@ More detailed information can be found in [Reveal.js](https://revealjs.com/auto-
 
 ## Vertical Slides
 
+:::tip
+This is a feature for Pro users.
+:::
+
 Vertical slides is a core feature in Reveal.js. It's also supported in slide reveal plugin.
 
 ```

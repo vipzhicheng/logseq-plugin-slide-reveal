@@ -13,8 +13,8 @@ hero:
       text: 开始使用
       link: /cn/guide/getting-started
     - theme: alt
-      text: 演示视频
-      link: /cn/screencast/
+      text: 购买VIP
+      link: /cn/purchase
 
 features:
   - title: 易于使用
