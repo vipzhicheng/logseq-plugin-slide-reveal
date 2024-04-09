@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a5 as l}from"./chunks/framework.B-2EAuIc.js";const g=JSON.parse('{"title":"Logseq Slide Reveal","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),o={name:"README.md"},i=l("",12),n=[i];function r(s,h,d,p,u,c){return t(),a("div",null,n)}const f=e(o,[["render",r]]);export{g as __pageData,f as default};
