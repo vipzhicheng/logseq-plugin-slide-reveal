@@ -4,9 +4,25 @@
 
 A plugin for Logseq that allows you to create slides based on reveal.js.
 
+## Features
+
+- Support colorful background, gradient background, image background, video background.
+- Support local image and video.
+- Support auto animation.
+- Support Latex math.
+- Support mermaid dialgrams.
+- Support code highlight.
+- Support table and quote syntax.
+- You can draw on slides.
+- Support start slides from any block.
+- Support vertical slides, cross slides.
+- Support shortcuts `jkhl` to change slide up and down or left and right. `b` for black screen.
+- Support choosing theme, random theme, slide-level theme.
+- Support part of tailwind classes.
+
 ## Documentation
 
-For better UX, I prepared a [documentation](https://www.vipzhicheng.com/logseq-plugin-slide-reveal/) for you.
+For better usage, I prepared a detailed [documentation](https://www.vipzhicheng.com/logseq-plugin-slide-reveal/) for you.
 
 ## Installation
 
