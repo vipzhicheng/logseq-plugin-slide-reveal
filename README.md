@@ -24,7 +24,7 @@ Search for it in the plugin marketplace and install it from there.
 
 ## Demo
 
-<video controls="controls" src="./assets/screencast/demo.mp4" />
+![](./demo.gif)
 
 ## Improvements
 
