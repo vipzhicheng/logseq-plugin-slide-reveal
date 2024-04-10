@@ -53,4 +53,4 @@ Default is `slide`. It can be combined with the slide transition. It can use the
 
 ## Sanitize Block
 
-For security reasons, the plugin will filter out some HTML tags by default, such as script, style, iframe, etc. For paid user, you can disable this feature and use scripts to get more possibilities.
+For security reasons, the plugin will filter out some HTML tags by default, such as script, style, iframe, etc. You can disable this feature and use scripts to get more possibilities.
