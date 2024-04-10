@@ -22,6 +22,10 @@ Search for it in the plugin marketplace and install it from there.
 1. Load the unzipped folder by clicking on the "Load unpacked plugin" button in the plugin modal.
 1. You should now see the plugin has been installed.
 
+## Demo
+
+<video controls="controls" src="./assets/screencast/demo.mp4" />
+
 ## Improvements
 
 If you have any ideas or suggestions, please feel free to open an issue.
