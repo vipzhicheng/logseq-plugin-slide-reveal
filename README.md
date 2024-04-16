@@ -4,6 +4,8 @@
 
 A plugin for Logseq that allows you to create slides based on reveal.js.
 
+**!!Note: This plugin is a paid plugin. Free users can only view 5 slides.**
+
 ## Features
 
 - Support colorful background, gradient background, image background, video background.
