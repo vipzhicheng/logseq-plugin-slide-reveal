@@ -330,6 +330,22 @@ data-footer:: true
 | highlight-current-green | 文本变为绿色，然后在下一个步骤恢复原色 |
 | highlight-current-blue  | 文本变为蓝色，然后在下一个步骤恢复原色 |
 
+## 布局
+
+你可以在插件设置中设置默认布局，你也可以给特定幻灯片设置 `data-layout` 属性。
+
+一共支持 9 种布局，如下：
+
+- center
+- left
+- right
+- top
+- bottom
+- top-left
+- top-right
+- bottom-left
+- bottom-right
+
 ## 隐藏幻灯片
 
 ```

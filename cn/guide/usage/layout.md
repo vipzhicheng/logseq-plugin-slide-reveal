@@ -26,13 +26,11 @@
 
 ## Flex 布局
 
-Flex 布局是一种常见的布局方式，幻灯片每个 `<section>` 都是一个 `flex` 容器，因此我们比较容易的实现 Flex 布局。以居左为例：
+Flex 布局是一种常见的布局方式，幻灯片每个 `<section>` 都是一个 `flex` 容器，因此我们比较容易的实现 Flex 布局。插件提供了默认布局设置，用户也可以为每个幻灯片通过属性来设置不同的布局。
 
 ```
 - # On Left
-  data-section-class:: !items-start
-  data-child-class:: !text-left
-  data-class:: !text-left
+  data-layout:: left
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3

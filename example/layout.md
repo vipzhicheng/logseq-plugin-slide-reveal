@@ -1,4 +1,6 @@
-# 布局
+# Layout
+
+You can set default layout on plugin settings. But you also can set `data-layout` property for specific slide.
 
 ## Center
 
@@ -15,10 +17,7 @@
 
 ```
 - # On Left
-  data-section-class:: !items-start
-  data-child-class:: !text-left
-  data-class:: !text-left
-  id:: b074af5f-07d9-4069-a31f-e0a4ae5210a1
+  data-layout:: left
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -30,9 +29,7 @@
 
 ```
 - # On Right
-  data-section-class:: !items-end
-  data-child-class:: !text-right
-  data-class:: !text-right
+  data-layout:: right
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -42,7 +39,7 @@
 
 ```
 - # On Top
-  data-section-class:: !justify-start
+  data-layout:: top
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -54,9 +51,7 @@
 
 ```
 - # On Top Left
-  data-section-class:: !justify-start !items-start
-  data-child-class:: !text-left
-  data-class:: !text-left
+  data-layout:: top-left
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -66,9 +61,7 @@
 
 ```
 - # On Top Right
-  data-section-class:: !justify-start !items-end
-  data-child-class:: !text-right
-  data-class:: !text-right
+  data-layout:: top-right
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -78,7 +71,7 @@
 
 ```
 - # On Bottom
-  data-section-class:: !justify-end
+  data-layout:: bottom
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -88,9 +81,7 @@
 
 ```
 - # On Bottom Left
-  data-section-class:: !justify-end !items-start
-  data-child-class:: !text-left
-  data-class:: !text-left
+  data-layout:: bottom-left
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3
@@ -100,9 +91,7 @@
 
 ```
 - # On Bottom Right
-  data-section-class:: !justify-end !items-end
-  data-child-class:: !text-right
-  data-class:: !text-right
+  data-layout:: bottom-right
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3

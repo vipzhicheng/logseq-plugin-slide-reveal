@@ -26,13 +26,11 @@ It will be rendered as:
 
 ## Flex Layout
 
-Flex layout is a prevalent approach to organizing content, and each `<section>` in the slides constitutes a flex container, making it relatively straightforward to implement Flex-based arrangements. Consider the case of left alignment:
+Flex layout is a prevalent approach to organizing content, and each `<section>` in the slides constitutes a flex container, making it relatively straightforward to implement Flex-based arrangements. Slide Reveal support default layout setting, and you can also change slide layout by adding `data-layout` property.
 
 ```
 - # On Left
-  data-section-class:: !items-start
-  data-child-class:: !text-left
-  data-class:: !text-left
+  data-layout:: left
 	- ## Topic 1
 	- ## Topic 2
 	- ## Topic 3

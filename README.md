@@ -4,7 +4,7 @@
 
 A plugin for Logseq that allows you to create slides based on reveal.js.
 
-**!!Note: This plugin is a paid plugin. Free users can only view 5 slides.**
+**!!Note: This plugin is a paid plugin. Free users can only view 10 slides.**
 
 ## Features
 

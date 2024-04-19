@@ -329,6 +329,22 @@ Fragment effects can include the following options:
 | highlight-current-green | Turn text green, then back to original on next step |
 | highlight-current-blue  | Turn text blue, then back to original on next step  |
 
+## Layout
+
+You can set default layout on plugin settings. But you also can set `data-layout` property for specific slide.
+
+Support 9 layouts:
+
+- center
+- left
+- right
+- top
+- bottom
+- top-left
+- top-right
+- bottom-left
+- bottom-right
+
 ## Hide slide
 
 ```
