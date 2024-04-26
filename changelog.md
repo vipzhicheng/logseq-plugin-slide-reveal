@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.1.0
+
+- feat: add page level properties support, use `data-page-` prefix
+- feat: add code theme setting and property support, use `data-code-theme`
+- feat: add font settings support
+- feat: add theme adjustment settings support
+- fix: block properties filter for codeblock
+- fix: random theme logic, reduce unnecessary css load
+- fix: treat property true or false as string
+
 ## v1.0.2
 
 - fix: adjust license storage

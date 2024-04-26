@@ -27,6 +27,33 @@ data-theme:: black
 
 我们可以在插件设置里设置主题，但是用属性来设置的优先级更高。并且只作用于单页，当翻到下一页时主题会恢复到插件设置的主题。如果插件设置的主题是 `inherit` ，表示继承前一个主题，则会保持应用上一页属性设置的主题。
 
+## 设置代码主题
+
+```
+data-code-theme:: github
+```
+
+插件内置了数十种代码主题，你可以在通过属性的方式设置，也可以使用默认设置中选择的默认代码主题。
+
+支持如下主题，以后会根据需要和反馈来增加更多：
+
+- atom-one-light
+- atom-one-dark
+- github
+- github-dark
+- xcode
+- idea
+- monokai
+- nord
+- stackoverflow-light
+- stackoverflow-dark
+- androidstudio
+- base16-material
+- base16-dracula
+- hybrid
+- docco
+- far
+
 ## 设置过渡效果
 
 过渡效果就是翻页时的动画效果。分为页面主体文字和背景两部分分别控制。
@@ -353,3 +380,14 @@ data-visibility:: hidden
 ```
 
 标识了这个属性的幻灯片不会被渲染
+
+## 神奇的页面级属性
+
+大多数属性都可以在页面级别上设置，通过在属性名称前添加 `page-` 前缀，例如 `data-page-layout:: left`。你可以使用这种方式为每个幻灯片提供共同的属性。
+
+一些属性在页面级别上不支持，或者没有意义。
+
+- `data-header`
+- `data-footer`
+- `data-id`
+- `data-fragment-index`

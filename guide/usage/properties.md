@@ -27,6 +27,33 @@ Supported themes:
 
 We can set the theme in the plugin settings, but setting it with properties takes precedence. Additionally, these properties only apply to individual pages, and when flipping to the next page, the theme will revert to the theme set in the plugin settings. If the theme set in the plugin settings is `inherit`, indicating inheritance from the previous theme, it will maintain the theme set by the previous page's theme property.
 
+## Set Code Theme
+
+```
+data-code-theme:: github
+```
+
+There are several code themes in the plugin. You can set it by the property or use the default theme in the plugin settings.
+
+Supported themes:
+
+- atom-one-light
+- atom-one-dark
+- github
+- github-dark
+- xcode
+- idea
+- monokai
+- nord
+- stackoverflow-light
+- stackoverflow-dark
+- androidstudio
+- base16-material
+- base16-dracula
+- hybrid
+- docco
+- far
+
 ## Set Transition Effects
 
 Transition effects refer to the animation effects when flipping pages. They are divided into controlling the main text and background of the page separately.
@@ -352,3 +379,14 @@ data-visibility:: hidden
 ```
 
 It will not be rendered if this attribute is marked
+
+## Magic page level properties
+
+Most of the properties can be set on page level by adding `page-` prefix to the property name, e.g. `data-page-layout:: left`. You can use this way to give each slide common properties.
+
+Some properties are not supported on page level or meaningless.
+
+- `data-header`
+- `data-footer`
+- `data-id`
+- `data-fragment-index`
