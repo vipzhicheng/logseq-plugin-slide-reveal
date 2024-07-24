@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.1
+
+- fix: half background layout
+- fix: local image and video background
+- feat: add page navigation support, from one slide page to another slide page directly and back and forward.
+- feat: support local audio files playing
+
 ## v1.1.0
 
 - feat: add page level properties support, use `data-page-` prefix
