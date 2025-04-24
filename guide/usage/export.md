@@ -35,3 +35,5 @@ I found that if the scrollbar is displayed, the exported PDF will have an annoyi
 ### 2. Why does the exported PDF still have a white margin?
 
 This problem does exist. Currently, the only way is to select a good print size to reduce the white margin, and it seems impossible to completely eliminate it.
+
+<video controls="controls" src="/assets/screencast/export.mp4" />

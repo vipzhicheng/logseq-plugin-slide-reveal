@@ -35,3 +35,5 @@ data-page-view:: print
 ### 2. 为什么导出的 PDF 仍然有白边？
 
 这个问题确实存在，目前只能通过选择良好的打印尺寸来减少白边，似乎无法完全消除。
+
+<video controls="controls" src="/assets/screencast/export.mp4" />
