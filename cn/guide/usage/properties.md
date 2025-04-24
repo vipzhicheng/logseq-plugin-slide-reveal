@@ -391,3 +391,7 @@ data-visibility:: hidden
 - `data-footer`
 - `data-id`
 - `data-fragment-index`
+
+### 只支持页面级别的属性
+
+- `data-page-view`: 这个用于切换页面的渲染模式，用于导出 PDF。

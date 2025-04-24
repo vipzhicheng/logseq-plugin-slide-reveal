@@ -390,3 +390,7 @@ Some properties are not supported on page level or meaningless.
 - `data-footer`
 - `data-id`
 - `data-fragment-index`
+
+### Only page-level attributes are supported
+
+- `data-page-view`: This is used to switch the rendering mode of the page, and it is applied for exporting to PDF.

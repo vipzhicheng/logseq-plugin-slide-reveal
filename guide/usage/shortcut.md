@@ -68,3 +68,8 @@ This is a feature for Pro users.
 
 - Type `/Slide Preview` in a block to preview slides.
 - Choose `Slide Preview` from the context menu of a block to preview slides.
+
+## Export
+
+- `p`: Switch the rendering mode
+- `cmd+p`: Open the PDF export window

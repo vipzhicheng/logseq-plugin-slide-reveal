@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.2.0
+
+- feat: add export to PDF support
+- feat: add print mode
+- feat: optimize control panel and add icons
+- feat: optimize drawer cursor and add trash icon button
+- chore: update dependencies
+
 ## v1.1.1
 
 - fix: half background layout
